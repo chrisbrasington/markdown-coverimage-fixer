@@ -1,7 +1,3 @@
-Here’s the updated `README.md` to reflect the file renaming and the new changes:
-
----
-
 # Markdown Cover URL Updater
 
 This repository provides two Python scripts, `fix.py` and `fix_without_download.py`, to manage and update cover URLs in markdown files. These scripts are specifically designed to work with a directory of markdown files used for tracking video games.
@@ -79,6 +75,3 @@ coverManuallySet: true
 - For skipping files, `coverManuallySet: true` is automatically added to prevent reprocessing.
 - **`fix.py`** includes additional functionality to validate image dimensions, while **`fix_without_download.py`** only updates the metadata without validation.
 
---- 
-
-This ensures clarity on the differences and functionalities of the two scripts.
